@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 e0 64 34 a3 c3 a1 54-2e 5b 22 40 14 d3 18 5c</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Postgres Test Disk.vmx</vmxPathName></VM></Foundry>
